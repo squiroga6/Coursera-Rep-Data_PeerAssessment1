@@ -1,5 +1,5 @@
 # RepData_PeerAssessment1
-Peer Assessment 1 for Reproducible Research
+Peer Assessment 1 for Reproducible Research Course in Coursera's Johns Hopkins University Data Science Specialization
 
 ## Activity Monitoring Data
 
